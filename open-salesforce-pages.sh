@@ -20,7 +20,7 @@ if [[ $1 == *"client1"* ]]; then
   client="Client1"
 elif [[ $1 == *"client2"* ]]; then
   space=3
-  client="JFJ"
+  client="Client2"
 else
   space=1 # Default space if no specific client is matched
 fi
